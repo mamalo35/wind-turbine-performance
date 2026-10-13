@@ -6,7 +6,6 @@
 
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4)
 ![MLlib](https://img.shields.io/badge/MLlib-Random%20Forest-4B8BBE)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
